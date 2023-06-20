@@ -4,7 +4,7 @@
 
 # Hi there, I'm John Doe!
 
-I'm a full-stack web developer with 5 years of experience in building web applications using JavaScript, React, Node.js, and MongoDB.
+I'm a software engineer with a passion for building high-quality web applications. I recently graduated from Birmingham City University with a Bachelor's degree in Computer Science and am eager to kick off my career in the tech industry.
 
 ## Skills
 
@@ -26,12 +26,13 @@ Here are some of my recent projects:
 
 ## Experience
 
-- Full-Stack Developer at ABC Company (2018-2021)
-- Front-End Developer at XYZ Agency (2016-2018)
+- Internship at ABC Company (Summer 2022)
+- Freelance Web Developer (2022-2023)
+
 
 ## Education
 
-- Bachelor's degree in Computer Science from Birmingham City University (2012-2016)
+- Bachelor's degree in Computer Science from Birmingham City University (2021-2024)
 - Bootcamp Certificate in Sofware Engineering from HyperionDev (2023)
 
 ## Interests
@@ -42,4 +43,5 @@ Here are some of my recent projects:
 
 ![My Photo](https://github.com/johndoe/profile/blob/main/myphoto.jpg)
 
-Feel free to check out my [GitHub profile](https://github.com/Damiennsoh/) for more information about me and my projects.
+I'm excited to start my career in the tech industry and am looking for opportunities to work with talented teams on interesting projects. Feel free to check out my [GitHub profile](https://github.com/Damiennsoh) for more information about me and my projects.
+I
