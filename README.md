@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hi there, I'm John Doe!
+# Hi there, I'm Damien Nsoh Ayine!
 
 I'm a software engineer with a passion for building high-quality web applications. I recently graduated from Birmingham City University with a Bachelor's degree in Computer Science and am eager to kick off my career in the tech industry.
 
