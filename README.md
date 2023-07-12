@@ -11,10 +11,12 @@ I'm a software engineer with a passion for building high-quality web application
 - JavaScript
 - React
 - Node.js
-- MongoDB
+- Cloud Computing(Microsoft Azure)
 - HTML/CSS
 - Python
 - MySQL
+- Computer Networking
+
 
 ## Projects
 
