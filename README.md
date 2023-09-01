@@ -22,9 +22,9 @@ I'm a software engineer with a passion for building high-quality web application
 
 Here are some of my recent projects:
 
-- [Project 1](https://github.com/johndoe/project1) - A web application for managing tasks.
-- [Project 2](https://github.com/johndoe/project2) - A real-time chat application using Socket.io.
-- [Project 3](https://github.com/johndoe/project3) - A portfolio website built with React and Gatsby.
+- [Capstone Project in Python](https://github.com/Damiennsoh/finalCapstone) - In this project, I will use lists or dictionaries and functions to extend the functionality of a simple task management system.
+- [Student Hub-react.js](https://github.com/Damiennsoh/React-Student-Hub-App) - A note taking app developed using react.js
+- [Quiz Application](https://github.com/Damiennsoh/Quiz-Application-BCA) - A web-based quiz application for students 
 - [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/141796/) -A portfolio of all Software Engineering project tasks from HyperionDev Bootcamp
 
 ## Experience
@@ -36,15 +36,15 @@ Here are some of my recent projects:
 ## Education
 
 - Bachelor's degree in Computer Science from Birmingham City University (2021-2024)
-- Bootcamp Certificate in Sofware Engineering from HyperionDev (2023)
+- Bootcamp Certificate in Sofware Engineering from HyperionDev (2023) (United Kingdom)
+- Bootcamp Certificate in Cybersecurity from Raytheon Cyber Academy (United Kingdom)
+
 
 ## Interests
 
 - Photography
 - Reading
 - Video Gaming
-
-![My Photo](https://github.com/johndoe/profile/blob/main/myphoto.jpg)
 
 I'm excited to start my career in the tech industry and am looking for opportunities to work with talented teams on interesting projects. Feel free to check out my [GitHub profile](https://github.com/Damiennsoh) for more information about me and my projects.
 I
