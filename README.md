@@ -4,7 +4,7 @@
 
 # Hi there, I'm Damien Nsoh Ayine!
 
-I'm a software engineer with a passion for building high-quality web applications. I recently graduated from Birmingham City University with a Bachelor's degree in Computer Science and am eager to kick off my career in the tech industry.
+I'm a software engineer with a passion for building high-quality web applications. I am a recent graduate with a Bachelor's degree in Computer Science and am eager to kick off my career in the tech industry.
 
 ## Skills
 
@@ -16,6 +16,7 @@ I'm a software engineer with a passion for building high-quality web application
 - Python
 - MySQL
 - Computer Networking
+- Cybersecurity
 
 
 ## Projects
