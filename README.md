@@ -30,7 +30,7 @@ Here are some of my recent projects:
 
 ## Experience
 
-- Internship at ABC Company (Summer 2022)
+- Internship at Lillup Company (Summer 2023): I worked on cybersecurity projects using Mandiant and Cloudflare to detect vulnerabilities and fix issues that were found.
 - Freelance Web Developer (2022-2023)
 
 
