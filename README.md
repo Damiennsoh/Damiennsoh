@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="62708174-097d-47ef-af72-f8d807662240" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 # Hi there, I'm Damien Nsoh Ayine!
