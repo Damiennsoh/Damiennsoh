@@ -24,7 +24,7 @@ I'm a software engineer with a passion for building high-quality web application
 Here are some of my recent projects:
 
 - [Capstone Project in Python](https://github.com/Damiennsoh/finalCapstone) - In this project, I will use lists or dictionaries and functions to extend the functionality of a simple task management system.
-- [Student Hub-react.js](https://github.com/Damiennsoh/React-Student-Hub-App) - A note taking app developed using react.js
+- [PsyCatech-Solutions Website](https://psy-catech-solutions-web.vercel.app/) - My Company website with all my portfolio projects.
 - [Quiz Application](https://github.com/Damiennsoh/Quiz-Application-BCA) - A web-based quiz application for students 
 - [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/141796/) -A portfolio of all Software Engineering project tasks from HyperionDev Bootcamp
 
