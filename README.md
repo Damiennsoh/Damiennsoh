@@ -23,7 +23,7 @@ I'm a **Full Stack Software Engineer** and **Cybersecurity Analyst** with a pass
 - 🔭 I'm currently working on **full-stack web applications** and **cybersecurity solutions**
 - 🌱 I'm continuously learning **AI/ML technologies** and **advanced cloud architectures**
 - 👯 I'm looking to collaborate on **open-source projects** and **security research**
-- 📫 How to reach me: **damien.nsoh@email.com**
+- 📫 How to reach me: **dnsoh20@email.com**
 - ⚡ Fun fact: I combine **software engineering expertise** with **security mindset** to build robust applications
 
 ## 🛠️ Technical Skills
